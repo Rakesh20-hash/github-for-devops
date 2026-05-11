@@ -1,0 +1,6 @@
+git init
+git add filename
+git commit -m "filename"
+git status
+git clone
+
